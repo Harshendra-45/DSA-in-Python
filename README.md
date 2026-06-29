@@ -129,6 +129,7 @@ This repository helps me:
 | [0001-two-sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +144,7 @@ This repository helps me:
 | [0043-multiply-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3614-process-string-with-special-operations-ii) |
@@ -177,4 +179,12 @@ This repository helps me:
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0242-valid-anagram) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
