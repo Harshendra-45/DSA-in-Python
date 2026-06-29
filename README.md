@@ -111,6 +111,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0136-single-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
@@ -140,4 +141,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
