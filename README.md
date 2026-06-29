@@ -114,6 +114,7 @@ This repository helps me:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0136-single-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
@@ -130,6 +131,7 @@ This repository helps me:
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
