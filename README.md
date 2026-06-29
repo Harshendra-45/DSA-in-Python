@@ -116,11 +116,13 @@ This repository helps me:
 | [0035-search-insert-position](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +163,7 @@ This repository helps me:
 | [0027-remove-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
@@ -169,6 +172,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
