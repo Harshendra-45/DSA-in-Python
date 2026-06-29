@@ -129,4 +129,9 @@ This repository helps me:
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
