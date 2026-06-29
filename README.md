@@ -120,4 +120,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
