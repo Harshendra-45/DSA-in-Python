@@ -112,6 +112,7 @@ This repository helps me:
 | ------- |
 | [0001-two-sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0136-single-number) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -124,4 +125,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
