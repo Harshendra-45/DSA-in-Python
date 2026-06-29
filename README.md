@@ -121,6 +121,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Math
 |  |
 | ------- |
@@ -128,10 +129,15 @@ This repository helps me:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
