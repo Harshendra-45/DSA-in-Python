@@ -1,0 +1,21 @@
+class Solution(object):
+    def firstUniqChar(self, s):
+        """
+        :type s: str
+        :rtype: int
+        """
+        freq = {}
+
+        for item in s:
+
+           if item not in freq:
+                freq[item] = 1
+
+           else:
+                freq[item] += 1
+     
+        for i in range(len(s)):
+           if freq[s[i]] == 1:
+            return i
+        else:
+            return -1
