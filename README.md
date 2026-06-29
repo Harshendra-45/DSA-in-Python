@@ -138,6 +138,7 @@ This repository helps me:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0125-valid-palindrome) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
@@ -155,6 +156,7 @@ This repository helps me:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
