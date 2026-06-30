@@ -6,7 +6,8 @@ class Solution(object):
         :rtype: str
         """
         res=""
-        for i in range(min(len(word1),len(word2))):
+        minl =min(len(word1),len(word2)) 
+        for i in range(minl):
             res+=word1[i]
             res+=word2[i]
         if len(word1)>len(word2):
