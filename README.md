@@ -141,6 +141,7 @@ This repository helps me:
 | [0009-palindrome-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -184,6 +185,7 @@ This repository helps me:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
