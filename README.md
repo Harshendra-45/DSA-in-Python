@@ -119,6 +119,7 @@ This repository helps me:
 | [0066-plus-one](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -129,6 +130,7 @@ This repository helps me:
 | ------- |
 | [0136-single-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
