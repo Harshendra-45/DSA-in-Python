@@ -153,6 +153,7 @@ This repository helps me:
 | ------- |
 | [0009-palindrome-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
@@ -233,4 +234,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0055-jump-game) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
