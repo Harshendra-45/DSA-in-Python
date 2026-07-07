@@ -159,6 +159,7 @@ This repository helps me:
 | [0066-plus-one](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
