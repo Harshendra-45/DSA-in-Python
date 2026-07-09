@@ -128,6 +128,7 @@ This repository helps me:
 | [0485-max-consecutive-ones](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1470-shuffle-the-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1470-shuffle-the-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Bit Manipulation
@@ -174,6 +175,7 @@ This repository helps me:
 | [0412-fizz-buzz](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0415-add-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
