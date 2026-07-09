@@ -159,6 +159,7 @@ This repository helps me:
 | [0066-plus-one](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0412-fizz-buzz) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -169,6 +170,7 @@ This repository helps me:
 | [0125-valid-palindrome](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0412-fizz-buzz) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -178,6 +180,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0412-fizz-buzz) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sliding Window
