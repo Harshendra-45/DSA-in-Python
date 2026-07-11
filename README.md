@@ -125,6 +125,7 @@ This repository helps me:
 | [0283-move-zeroes](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1470-shuffle-the-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1470-shuffle-the-array) |
@@ -150,6 +151,7 @@ This repository helps me:
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1832-check-if-the-sentence-is-pangram) |
