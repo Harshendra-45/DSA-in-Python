@@ -131,6 +131,7 @@ This repository helps me:
 | [1470-shuffle-the-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
@@ -183,6 +184,7 @@ This repository helps me:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
