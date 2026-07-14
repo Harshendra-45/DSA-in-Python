@@ -134,6 +134,7 @@ This repository helps me:
 | [1816-truncate-sentence](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3842-toggle-light-bulbs](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3842-toggle-light-bulbs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +158,7 @@ This repository helps me:
 | [1748-sum-of-unique-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3842-toggle-light-bulbs](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +199,7 @@ This repository helps me:
 | [0415-add-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0415-add-strings) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3614-process-string-with-special-operations-ii) |
+| [3842-toggle-light-bulbs](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3842-toggle-light-bulbs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -234,6 +237,7 @@ This repository helps me:
 | [0242-valid-anagram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3842-toggle-light-bulbs](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3842-toggle-light-bulbs) |
 ## Queue
 |  |
 | ------- |
