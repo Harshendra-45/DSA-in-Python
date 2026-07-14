@@ -133,6 +133,7 @@ This repository helps me:
 | [1748-sum-of-unique-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3842-toggle-light-bulbs](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3842-toggle-light-bulbs) |
 ## Bit Manipulation
