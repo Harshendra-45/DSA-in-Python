@@ -128,6 +128,7 @@ This repository helps me:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
 | [1470-shuffle-the-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1748-sum-of-unique-elements) |
@@ -220,6 +221,7 @@ This repository helps me:
 | [0283-move-zeroes](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -242,6 +244,7 @@ This repository helps me:
 | [0242-valid-anagram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
 | [3842-toggle-light-bulbs](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3842-toggle-light-bulbs) |
 ## Queue
 |  |
