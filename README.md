@@ -129,6 +129,7 @@ This repository helps me:
 | [0485-max-consecutive-ones](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1748-sum-of-unique-elements) |
