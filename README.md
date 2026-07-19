@@ -112,6 +112,7 @@ This repository helps me:
 | ------- |
 | [0001-two-sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0035-search-insert-position) |
@@ -183,6 +184,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0125-valid-palindrome) |
@@ -284,4 +286,8 @@ This repository helps me:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
