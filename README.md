@@ -113,6 +113,7 @@ This repository helps me:
 | [0001-two-sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0035-search-insert-position) |
@@ -218,6 +219,7 @@ This repository helps me:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -245,6 +247,7 @@ This repository helps me:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
