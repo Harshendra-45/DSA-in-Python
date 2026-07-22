@@ -195,6 +195,7 @@ This repository helps me:
 | [0412-fizz-buzz](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1768-merge-strings-alternately) |
@@ -235,6 +236,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
