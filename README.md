@@ -123,6 +123,7 @@ This repository helps me:
 | [0137-single-number-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0283-move-zeroes) |
@@ -247,6 +248,7 @@ This repository helps me:
 | [0035-search-insert-position](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -280,6 +282,7 @@ This repository helps me:
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -315,4 +318,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
