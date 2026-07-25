@@ -182,6 +182,7 @@ This repository helps me:
 | [0412-fizz-buzz](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0415-add-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -263,6 +264,7 @@ This repository helps me:
 | [0347-top-k-frequent-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3536-maximum-product-of-two-digits) |
 | [3842-toggle-light-bulbs](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3842-toggle-light-bulbs) |
 ## Queue
 |  |
