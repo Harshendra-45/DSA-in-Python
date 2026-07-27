@@ -136,6 +136,7 @@ This repository helps me:
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1748-sum-of-unique-elements) |
@@ -267,6 +268,7 @@ This repository helps me:
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3536-maximum-product-of-two-digits) |
 | [3842-toggle-light-bulbs](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3842-toggle-light-bulbs) |
 ## Queue
@@ -315,6 +317,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
