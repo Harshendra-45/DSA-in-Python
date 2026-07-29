@@ -119,6 +119,7 @@ This repository helps me:
 | [0035-search-insert-position](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0162-find-peak-element) |
@@ -234,6 +235,7 @@ This repository helps me:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0283-move-zeroes) |
@@ -262,6 +264,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
