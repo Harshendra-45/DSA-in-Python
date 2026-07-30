@@ -112,6 +112,7 @@ This repository helps me:
 | ------- |
 | [0001-two-sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -231,6 +232,7 @@ This repository helps me:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0027-remove-element) |
@@ -302,6 +304,7 @@ This repository helps me:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0055-jump-game) |
 ## Recursion
 |  |
