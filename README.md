@@ -137,6 +137,7 @@ This repository helps me:
 | [0485-max-consecutive-ones](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -188,6 +189,7 @@ This repository helps me:
 | [0412-fizz-buzz](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -304,6 +306,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0055-jump-game) |
+| [0877-stone-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -340,4 +343,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0240-search-a-2d-matrix-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
