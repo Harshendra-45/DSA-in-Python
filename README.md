@@ -207,6 +207,7 @@ This repository helps me:
 | [0151-reverse-words-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0520-detect-capital) |
@@ -248,6 +249,7 @@ This repository helps me:
 | [0283-move-zeroes](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1768-merge-strings-alternately) |
 ## String Matching
@@ -307,6 +309,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0877-stone-game) |
 ## Greedy
 |  |
