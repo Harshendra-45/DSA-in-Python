@@ -193,6 +193,7 @@ This repository helps me:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Harshendra-45/DSA-in-Python/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/2544-alternating-digit-sum) |
+| [3280-convert-date-to-binary](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -220,6 +221,7 @@ This repository helps me:
 | [1816-truncate-sentence](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3280-convert-date-to-binary](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3280-convert-date-to-binary) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
