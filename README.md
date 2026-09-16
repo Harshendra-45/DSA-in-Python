@@ -140,6 +140,7 @@ This repository helps me:
 | [0877-stone-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1480-running-sum-of-1d-array) |
@@ -175,6 +176,7 @@ This repository helps me:
 | [0387-first-unique-character-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -301,6 +303,7 @@ This repository helps me:
 | [0169-majority-element](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1748-sum-of-unique-elements) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Harshendra-45/DSA-in-Python/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Divide and Conquer
