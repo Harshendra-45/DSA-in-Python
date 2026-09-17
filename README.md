@@ -163,6 +163,7 @@ This repository helps me:
 | [0260-single-number-iii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@ This repository helps me:
 | [0415-add-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Harshendra-45/DSA-in-Python/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/Harshendra-45/DSA-in-Python/tree/master/2544-alternating-digit-sum) |
