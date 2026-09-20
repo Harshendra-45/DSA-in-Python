@@ -370,4 +370,8 @@ This repository helps me:
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1480-running-sum-of-1d-array) |
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
