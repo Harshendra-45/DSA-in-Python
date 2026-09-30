@@ -137,6 +137,7 @@ This repository helps me:
 | [0485-max-consecutive-ones](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0905-sort-array-by-parity) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -282,6 +283,7 @@ This repository helps me:
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -375,4 +377,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
