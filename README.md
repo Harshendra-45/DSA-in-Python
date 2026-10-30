@@ -131,6 +131,7 @@ This repository helps me:
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -372,6 +373,7 @@ This repository helps me:
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1480-running-sum-of-1d-array) |
 ## Database
 |  |
@@ -381,4 +383,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0852-peak-index-in-a-mountain-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
