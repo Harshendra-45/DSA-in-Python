@@ -162,6 +162,7 @@ This repository helps me:
 | [0136-single-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
@@ -192,6 +193,7 @@ This repository helps me:
 | [0050-powx-n](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0412-fizz-buzz) |
@@ -340,6 +342,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
 | ------- |
