@@ -166,6 +166,7 @@ This repository helps me:
 | [0260-single-number-iii](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Harshendra-45/DSA-in-Python/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
@@ -195,6 +196,7 @@ This repository helps me:
 | [0069-sqrtx](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0415-add-strings) |
@@ -343,6 +345,7 @@ This repository helps me:
 | ------- |
 | [0050-powx-n](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Harshendra-45/DSA-in-Python/tree/master/0342-power-of-four) |
 ## Number Theory
 |  |
 | ------- |
